@@ -1,8 +1,5 @@
-# EDA OF BadBunny: Song Performance on Spotify's Top 200
-
-<p align="center">
-  <img src="/images/badbunny_clerb.jpg">
-</p>
+# EDA OF BadBunny: What Does Drake Have To Do With It? (Top200 Spotify Song Performance)
+![BadBunny& Drake](images/badbunny_drake.jpg)
 
 ## Background
 BadBunny is a Puerto Rican rapper who has gained global success as a rapper. As a fan I wanted to explore his song performance overtime.  
@@ -27,4 +24,6 @@ The blue line in the middle is MIA (feat.Drake) and what follows in orange is Ve
 Globally, MIA (feat. Drake) seems to have acted as the single that introduced BadBunny to a global audience. Prior to the songs release most BadBunny songs didn't feature the Top200. However, Drakes wider audience could have introduced more listners to BadBunny and BadBunny was able to retain that new audience. BadBunny no longers needs features to get his songs featured as on the list, per Yonaguni's global success. 
 ![Tableau Graph](plots/global_avg_songs.png) 
 ## Thank you! 
-![BadBunny& Drake](images/badbunny_drake.jpg)
+<p align="center">
+  <img src="/images/badbunny_clerb.jpg">
+</p>
