@@ -23,8 +23,8 @@ Alperen Karan's notebook was a helpful resource as a did my analysis: https://ww
 ### Which Got me thinking about MIA (feat. Drake)...
 Looking at MIA (feat. Drake) rank averages and it turns out this song acted as BadBunny's crossover hit.<br>
 This paticular viz was created in Tableau Public and you can explore it more by [clicking here.](https://public.tableau.com/app/profile/catharine.romero/viz/EDA_BADBUNNY/Dashboard2)<br>
-The blue line in the middle is MIA (feat.Drake) and what follows the orange is Vete, which led up to the release of BadBunny's YHLQMDLG. 
-Globally, MIA (feat. Drake) seems to haveacted as the single that introduced listeners to him and as a result, globally, there was greater interest in BadBunny and his music. I hate to give Champagne Papi any credit, but it seems the feature helped launch BadBunny as a global artist. Although, it seems that BadBunny no longer needs Drake to see the level of success, per Yonaguni's performance. 
+The blue line in the middle is MIA (feat.Drake) and what follows in orange is Vete, which led up to the release of BadBunny's YHLQMDLG. 
+Globally, MIA (feat. Drake) seems to have acted as the single that introduced BadBunny to a global audience. Prior to the songs release most BadBunny songs didn't feature the Top200. However, Drakes wider audience could have introduced more listners to BadBunny and BadBunny was able to retain that new audience. BadBunny no longers needs features to get his songs featured as on the list, per Yonaguni's global success. 
 ![Tableau Graph](plots/global_avg_songs.png) 
 ## Thank you! 
 ![BadBunny& Drake](images/badbunny_drake.jpg)
